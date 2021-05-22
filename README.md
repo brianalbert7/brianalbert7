@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2><img src="https://media.tenor.com/images/426aa93de195958c7bb2407c29af2209/tenor.gif" alt="computer" width="80"> About me </h2>
+<h2><img src="https://media.giphy.com/media/26AHtCQBd7xFdh48o/giphy.gif" alt="computer" width="80"> About me </h2>
