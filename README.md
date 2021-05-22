@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 <h2><img src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" alt="computer" width="80"> I'm currently ...</h2>
 
-- �🔨 Building Web-Apps
+- 🔨 Building Web-Apps
 - 📚 Learning React.js
 - 🍎 On my last semester of college
