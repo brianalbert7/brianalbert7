@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h2><img src="https://media.giphy.com/media/26AHtCQBd7xFdh48o/giphy.gif" alt="computer" width="80"> About me </h2>
 
 <div >
-  <img src="https://github.com/juanpflores/juanpflores/blob/main/assets/happy-juanpa.gif" align="right" width="300">
+  <img src="" align="right" width="300">
 
 <ul>
   <li><b>😎 Name: </b> Brian Albert</li>
