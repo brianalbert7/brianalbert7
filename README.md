@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 <ul>
-  <li><b>😎 Name: </b> Brian Albert</li>
+  <li><b>⛹🏻‍♀️ Name: </b> Brian Albert</li>
   <li><b>📍 Location:</b> New Jersey/Florida</li>
   <li><b>💼 Job: </b>Software Engineer Intern @ <a href="https://shiphawk.com/">ShipHawk</a></li>
 </ul>
